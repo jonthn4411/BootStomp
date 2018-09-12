@@ -1,0 +1,1 @@
+{"start_with_thumb": "False", "enable_thumb": "False", "info_path": "evaluation/pxa1928ff/taint_info.txt", "exit_on_dec_error": "True", "bootloader": "bootloaders/pxa1928ff/u-boot.bin", "arch": "32"
