@@ -1,6 +1,6 @@
 FROM angr/angr
 
-RUN su angr -c "cd /home/angr/; git clone https://github.com/ucsb-seclab/BootStomp"
+RUN su angr -c "cd /home/angr/; git clone https://github.com/jonthn4411/BootStomp"
 
 RUN su angr -c "cd /home/angr/angr-dev/ana; git checkout 94928f773661eaa5a6c2dec40dad199c70daedab"
 RUN su angr -c "cd /home/angr/angr-dev/angr; git checkout 63db61e5d925355688e88dda00f8321c214d7df1"
