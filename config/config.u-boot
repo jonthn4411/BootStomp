@@ -1,0 +1,1 @@
+{"start_with_thumb": "False", "enable_thumb": "False", "info_path": "evaluation/out/*.txt", "exit_on_dec_error": "True", "bootloader": "bootloaders/vzw_qtair7/bootloader", "arch": "64"}
